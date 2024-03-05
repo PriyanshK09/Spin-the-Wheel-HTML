@@ -1,6 +1,6 @@
 # Spin the Wheel
 
-This is a simple Spin-the-Wheel game implemented using HTML, CSS, and JavaScript.
+This is a simple Spin-the-Wheel game implemented using HTML, CSS, and JavaScript. Just a mini project I tried on HTML5
 
 ## Features
 
